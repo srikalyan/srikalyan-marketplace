@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Integration tests validating the claude-marketplace structure.
+"""Integration tests validating the srikalyan-marketplace structure.
 
 Verifies:
 - marketplace.json is valid and well-formed

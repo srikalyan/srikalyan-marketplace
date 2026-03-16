@@ -1,4 +1,4 @@
-# claude-marketplace
+# srikalyan-marketplace
 
 A curated collection of Claude Code plugins by srikalyan.
 
@@ -6,7 +6,7 @@ A curated collection of Claude Code plugins by srikalyan.
 
 ```bash
 # Add the marketplace to Claude Code
-/plugin marketplace add srikalyan/claude-marketplace
+/plugin marketplace add srikalyan/srikalyan-marketplace
 ```
 
 ## Available Plugins
@@ -18,5 +18,5 @@ A curated collection of Claude Code plugins by srikalyan.
 ## Installing a plugin
 
 ```bash
-/plugin install claude-lcm@claude-marketplace
+/plugin install claude-lcm@srikalyan-marketplace
 ```

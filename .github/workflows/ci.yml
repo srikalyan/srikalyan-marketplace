@@ -27,5 +27,5 @@ jobs:
 
       - name: Build and run Docker tests
         run: |
-          docker build -f Dockerfile.test -t claude-marketplace-test .
-          docker run --rm claude-marketplace-test
+          docker build -f Dockerfile.test -t srikalyan-marketplace-test .
+          docker run --rm srikalyan-marketplace-test
