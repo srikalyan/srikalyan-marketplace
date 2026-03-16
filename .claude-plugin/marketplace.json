@@ -8,10 +8,11 @@
     {
       "name": "claude-lcm",
       "description": "Lossless Context Management — DAG-backed memory with hierarchical summarization, FTS search, and operator-level recursion (LLM-Map, Agentic-Map)",
-      "version": "0.1.0",
+      "version": "1.0.0",
       "source": {
         "source": "github",
-        "repo": "srikalyan/claude-lcm"
+        "repo": "srikalyan/claude-lcm",
+        "ref": "v1.0.0"
       },
       "author": {
         "name": "srikalyan"
